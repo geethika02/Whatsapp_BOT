@@ -1,1 +1,3 @@
 pip install selenium
+pip install tk
+pip install tk-tools
