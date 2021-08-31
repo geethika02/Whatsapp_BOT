@@ -170,7 +170,7 @@ semi.place(x=940, y=360)
 minute = Entry(win, textvariable=mins, font=15, width=3, bd='3')
 minute.place(x=980, y=370)
 
-
+ 
 
 set = Button(text="Send Message",command=sendmsgs, font=('Californian FB', 15,"bold"), bg='aqua', fg='black')
 set.place(x=140, y=500)
