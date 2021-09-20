@@ -11,7 +11,7 @@ options.add_argument(r'--user-data-dir=C:\Users\V VAMSI MOHAN\AppData\Local\Goog
 options.add_argument('--profile-directory=Default')
 
 win = Tk()
-win.title('Whatsapp Bot')
+win.title('Whatsapp Bot ')
 win.geometry("1100x600")
 win.config(background="black")
 
